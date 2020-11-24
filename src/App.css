@@ -21,6 +21,13 @@ h1 {
   font-size: 80px;
 }
 
+.menu,
+.react-logo {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
 .card {
   height: 400px;
   width: 200;
